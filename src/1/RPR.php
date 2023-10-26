@@ -1,6 +1,6 @@
 <?php
 
-namespace KostyaSemenov;
+namespace 1;
 
 use pocketmine\plugin\PluginBase;
 //События
